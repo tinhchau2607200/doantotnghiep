@@ -1,0 +1,10 @@
+[08-Dec-2015 15:50:50] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 159
+[08-Dec-2015 15:50:50] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/Thumbnail.php on line 273
+[08-Dec-2015 15:50:53] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 159
+[08-Dec-2015 15:50:53] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/Thumbnail.php on line 273
+[08-Dec-2015 16:11:57] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 159
+[08-Dec-2015 16:11:57] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 159
+[08-Dec-2015 16:11:57] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 159
+[08-Dec-2015 16:11:58] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/Thumbnail.php on line 273
+[08-Dec-2015 16:11:58] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/Thumbnail.php on line 273
+[08-Dec-2015 16:11:58] PHP Warning:  chmod() has been disabled for security reasons in /home/netcomvn/public_html/editor/ckfinder/core/connector/php/php5/CommandHandler/Thumbnail.php on line 273

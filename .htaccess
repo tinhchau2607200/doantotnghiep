@@ -1,0 +1,23 @@
+﻿#Khởi động
+RewriteEngine On
+
+#Thư mục gốc của web
+RewriteBase /
+
+#Thiết lập các luật
+RewriteRule ^trang-chu$ index.php
+RewriteRule ^gioi-thieu$ index.php?xem=gioi-thieu
+RewriteRule ^dich-vu$ index.php?xem=dich-vu
+RewriteRule ^thuc-don$ index.php?xem=thuc-don
+RewriteRule ^kho-anh$ index.php?xem=kho-anh
+RewriteRule ^tin-tuc-su-kien$ index.php?xem=tin-tuc-su-kien
+RewriteRule ^dat-ban$ index.php?xem=dat-ban
+RewriteRule ^lien-he$ index.php?xem=lien-he
+RewriteRule ^tin-tuc-su-kien&(.*)=([0-9]*)$ index.php?xem=tin-tuc-su-kien&trang=$2
+RewriteRule ^thuc-don/(.*)=([0-9]*)$ index.php?xem=thuc-don&post=$2
+
+RewriteRule ^thuc-don/([0-9]*)-(.*).html$ index.php?xem=thuc-don&post=$1&Kodau=$2
+RewriteRule ^tin-tuc-su-kien/([0-9]*)-(.*).html$ index.php?xem=chi-tiet-tin-tuc&&baiviet=$1tieude=$2
+
+RewriteRule ^tin-tuc-su-kien/(.*)=([0-9]*)$ index.php?xem=chi-tiet-tin-tuc&baiviet=$2
+RewriteRule ^dich-vu/([0-9]*)-(.*).html$ index.php?xem=chi-tiet-tin-tuc&baiviet=$1&tieude=$2
